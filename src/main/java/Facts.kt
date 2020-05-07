@@ -1,0 +1,1 @@
+data class Facts(val id:Int, val fact:String)
